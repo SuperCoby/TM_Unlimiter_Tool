@@ -58,7 +58,7 @@ the difference between version 2.78 and 3.1.0+ :
 
 #### Download here: [Dotnet](https://github.com/skyslide22/blendermania-assets/releases/download/Blendermania_Dotnet_v0.0.5/Blendermania_Dotnet_v0.0.5.zip)
   
-##how did i create the plugin ?
+## how did i create the plugin ?
   
 I made this plugin without having any knowledge of python,
 I created this tool thanks to an addon called Serpens - visual scripting.
