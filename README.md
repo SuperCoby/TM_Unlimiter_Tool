@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="https://tmnf.exchange/threadshow/6517627?page=auto" target="blank">
-<img src="https://img.shields.io/github/license/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="Trackmania Unlimiter" />
+<img src="https://img.shields.io/badge/Unlimiter-3.1-2" alt="Trackmania Unlimiter" />
 
 A tool designed to shorten the steps needed to import/export and optimize models.
 
