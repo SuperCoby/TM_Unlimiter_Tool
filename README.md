@@ -2,8 +2,9 @@
   TM_Unlimiter_Tool (3.1.0)+
 </h1>
 
-
-# TM_Unlimiter_Tool (3.1.0)+
+<img src="https://img.shields.io/badge/Unlimiter-3.1-2"
+<img src="https://img.shields.io/badge/Trackmania-Nation%20Forever-brightgreen"
+<img src="https://img.shields.io/badge/Discord%20-official-brightgreen"
 
 A tool designed to shorten the steps needed to import/export and optimize models.
 
