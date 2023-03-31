@@ -30,4 +30,4 @@ the difference between version 2.78 and 3.1.0+ :
 
 #### Download here: [Dotnet](https://github.com/skyslide22/blendermania-assets/releases/download/Blendermania_Dotnet_v0.0.5/Blendermania_Dotnet_v0.0.5.zip)
 
-https://github.com/skyslide22/blendermania-assets/releases/download/Blendermania_Dotnet_v0.0.5/Blendermania_Dotnet_v0.0.5.zip
+
