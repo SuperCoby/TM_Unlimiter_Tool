@@ -5,6 +5,11 @@
 <p align="center">
 <a href="https://tmnf.exchange/threadshow/6517627?page=auto" target="blank">
 <img src="https://img.shields.io/badge/Unlimiter-3.1-2" alt="Trackmania Unlimiter" />
+</a>
+<a href="https://discord.gg/8QFGHR4w" target="blank">
+<img src="https://img.shields.io/badge/Discord%20-official-brightgreen" alt="Discord Unlimiter"/>
+</a>
+<img src="https://img.shields.io/badge/Trackmania-Nation%20Forever-brightgreen" alt="Trackmania"/>
 
 A tool designed to shorten the steps needed to import/export and optimize models.
 
