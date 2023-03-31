@@ -67,6 +67,6 @@ Example for the "Materials" part :
 ![node](https://user-images.githubusercontent.com/47508526/229244043-d17c53a6-231c-484e-b9dd-a717a68bbec3.jpg)
 
 not being able to do everything with Serpens, I use ChatGpt a lot.
-to finalize the addon I asked a friend to merge all the small addons into 1  
+to finalize the addon and i asked a friend to merge all the small addons into 1  
 
 
