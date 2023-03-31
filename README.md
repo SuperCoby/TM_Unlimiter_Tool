@@ -51,8 +51,9 @@ the difference between version 2.78 and 3.1.0+ :
 
 ![edge](https://user-images.githubusercontent.com/47508526/229215050-3ab414ff-eb05-4085-bc68-3b8681ead52f.gif)
 
-## Instruction:
-
+## Installation:
+  
+-Go to Edit > Preferences > Addons > Install and either select .zip file 
 -you have to place the dotnet.exe in the "utils" folder
 
 #### Download here: [Dotnet](https://github.com/skyslide22/blendermania-assets/releases/download/Blendermania_Dotnet_v0.0.5/Blendermania_Dotnet_v0.0.5.zip)
