@@ -10,7 +10,7 @@ the difference between version 2.78 and 3.1.0+ :
 ## Tools:
  - added a shortcut of several options (Flat, Smooth, face orientation, normal flip, origin change, etc..)
 
-![](https://imgur.com/a/KJtNLqd)
+![export](https://user-images.githubusercontent.com/47508526/229198994-0dbbba29-e089-4eb7-b2b2-b70b988e4264.gif)
 
 ## Materials:
  - add drop-down menu
