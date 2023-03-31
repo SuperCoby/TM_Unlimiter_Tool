@@ -10,22 +10,26 @@ the difference between version 2.78 and 3.1.0+ :
 ## Tools:
  - added a shortcut of several options (Flat, Smooth, face orientation, normal flip, origin change, etc..)
 
-![export](https://user-images.githubusercontent.com/47508526/229198994-0dbbba29-e089-4eb7-b2b2-b70b988e4264.gif)
-
 ## Materials:
  - add drop-down menu
  - you can choose the destination folder to put the texture material in 1 click
  - added a button to filter searches
+ 
+ ![Materials](https://user-images.githubusercontent.com/47508526/229200564-1f93f875-f174-41b0-9ee9-42394ba8785b.gif)
 
 ## GBX Export:
  - you can directly choose the Block folder
  - the name of the mesh will be the same folder name
  - in the folder, the file will automatically be renamed to Model.Block.GBX
  - multiple exports
+ 
+ ![](https://imgur.com/a/KJtNLqd)
 
 ## Extended properties:
  - allows you to set collision name and textureGameCustom faster
  - you can select multiple
+ 
+ ![extented](https://user-images.githubusercontent.com/47508526/229200568-9a802cb4-f4e4-477c-a827-58cf968f8d2e.gif)
 
 ## Import:
  - you can import .item.gbx blocks
