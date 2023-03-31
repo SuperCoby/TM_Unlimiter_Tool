@@ -28,4 +28,4 @@ the difference between version 2.78 and 3.1.0+ :
 ## Import:
  - you can import .item.gbx blocks
 
-#### Download here: [Dotnet] (https://github.com/michaeldegroot/cats-blender-plugin/archive/master.zip](https://github.com/skyslide22/blendermania-assets/releases/download/Blendermania_Dotnet_v0.0.5/Blendermania_Dotnet_v0.0.5.zip)
+#### Download here: [Cats Blender Plugin](https://github.com/michaeldegroot/cats-blender-plugin/archive/master.zip)
