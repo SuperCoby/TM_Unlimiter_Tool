@@ -15,7 +15,7 @@ A tool designed to shorten the steps needed to import/export and optimize models
 
 the difference between version 2.78 and 3.1.0+ :
 
-## Documents:
+## Documentation:
  - added two buttons that redirect you to the Unlimiter page and the Discord
 
 ## Tools:
