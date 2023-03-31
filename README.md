@@ -23,7 +23,7 @@ the difference between version 2.78 and 3.1.0+ :
  - in the folder, the file will automatically be renamed to Model.Block.GBX
  - multiple exports
  
- ![](https://imgur.com/a/KJtNLqd)
+![export](https://user-images.githubusercontent.com/47508526/229200820-598353f8-177b-4da2-a977-b1e91f5e7bd9.gif)
 
 ## Extended properties:
  - allows you to set collision name and textureGameCustom faster
