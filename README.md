@@ -2,9 +2,7 @@
   TM_Unlimiter_Tool (3.1.0)+
 </h1>
 
-<img src="https://img.shields.io/badge/Unlimiter-3.1-2"
-<img src="https://img.shields.io/badge/Trackmania-Nation%20Forever-brightgreen"
-<img src="https://img.shields.io/badge/Discord%20-official-brightgreen"
+<img src="https://img.shields.io/github/license/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator license" />
 
 A tool designed to shorten the steps needed to import/export and optimize models.
 
