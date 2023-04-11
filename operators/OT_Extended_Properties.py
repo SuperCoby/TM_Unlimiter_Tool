@@ -12,6 +12,9 @@ items_mat_category = [
     ('Bay','Bay',''),
     ('Collision','Collision',''),
     ('TextureCustom', 'TextureCustom', ''),
+    ('IsTransparent', 'IsTransparent', ''),
+    ('NoTrails', 'NoTrails', ''),
+    ('NoShadows', 'NoShadows', ''),
 ]
 
 items_stadium = [
@@ -289,8 +292,13 @@ class SNA_OT_AddCustomPropertyType(bpy.types.Operator):
                     mat['TextureGame'] = sc.gbx_mat_bay
                 if sc.gbx_mat_cat == 'Collision':
                     mat['Collision'] = sc.gbx_mat_col
-                if sc.gbx_mat_cat == 'TextureCustom':
-                    mat['TextureCustom'] = ''
+                if sc.gbx_mat_cat in [
+                    'TextureCustom',
+                    'IsTransparent',
+                    'NoTrails',
+                    'NoShadows',
+                ]:
+                    mat[sc.gbx_mat_cat] = ''
 
         return { 'FINISHED' }
 
